@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'Ingrese el tiempo de respuesta'
+5
+1
+17
+tiempoderespuesta
+6
+2
+9
+SLALIMITE
+3
+200
+10
+SLA_LIMITE
+30
+(tiempoderespuesta<=SLALIMITE)
+4
+1
+59
+'Su resultado cumple con el limite permitido?' , SLA_LIMITE
+1

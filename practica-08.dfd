@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Ingresa tu promedio general'
+5
+1
+8
+promedio
+4
+1
+43
+'Ingresa tu cantidad de creditos obtenidos'
+5
+1
+8
+creditos
+6
+1
+10
+esElegible
+29
+promedio>=85 AND creditos>=45
+4
+1
+52
+'Elegibilidad para la beca es aceptado' , esElegible
+1
